@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 //Network 
-const char* ssid     = "135966@ClassicTech";
-const char* password = "12345678";
+const char* ssid     = "Your Wifi Ssid";
+const char* password = "Your Wifi pass";
 //Servers
 const char* servers[] = {"https://www.facebook.com/","https://www.instagram.com","https://www.twitter.com","https://www.youtube.com"};
  int count=0;
