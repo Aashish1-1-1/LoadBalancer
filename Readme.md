@@ -1,5 +1,5 @@
 ## LoadBalancer
-A  loadbalancer using Esp8236.
+A  loadbalancer using Esp8266.
 
 ## Architecture
 ![archi](https://github.com/Aashish1-1-1/LoadBalancer/blob/main/images/archi.svg)
